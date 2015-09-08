@@ -10,29 +10,29 @@
 	<string>AQGridView</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>73FA1EF6-6F4B-4A28-937E-B321E5F74B3B</key>
+		<key>0B333180E0E8769408D0A48B5D575127EC72A7B8</key>
 		<string>https://github.com/choefele/AQGridView.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>AQGridView.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>73FA1EF6-6F4B-4A28-937E-B321E5F74B3B</key>
+		<key>0B333180E0E8769408D0A48B5D575127EC72A7B8</key>
 		<string>..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/choefele/AQGridView.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>73FA1EF6-6F4B-4A28-937E-B321E5F74B3B</string>
+	<string>0B333180E0E8769408D0A48B5D575127EC72A7B8</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>73FA1EF6-6F4B-4A28-937E-B321E5F74B3B</string>
+			<string>0B333180E0E8769408D0A48B5D575127EC72A7B8</string>
 			<key>IDESourceControlWCCName</key>
 			<string>AQGridView</string>
 		</dict>

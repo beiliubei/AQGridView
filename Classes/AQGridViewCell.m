@@ -45,7 +45,7 @@
 #endif
 
 @interface AQGridViewCell ()
-@property (nonatomic, retain) UIView * contentView;
+@property (nonatomic, strong) UIView * contentView;
 @property (nonatomic, copy) NSString * reuseIdentifier;
 - (void) flipHighlightTimerFired: (NSTimer *) timer;
 @end
@@ -160,7 +160,7 @@
 	if ( _cellFlags.separatorEdge == value )
 		return;
 	
-	_cellFlags.separatorEdge = value;
+	_cellFlags.separatorEdge = (int)value;
 	[self setNeedsLayout];
 }
 
